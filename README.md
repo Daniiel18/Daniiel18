@@ -35,11 +35,11 @@ The desktop app that started SimFleet: search scenery by airport, download it wi
 
 `C#` `.NET 8` `WPF` `MonoTorrent` `Velopack`
 
-### 🧾 [Sistema de Ventas](https://github.com/Daniiel18/SistemaVentas)
+### 🧾 [Sistema de Ventas](https://github.com/Daniiel18/SistemaVentas) · [live](http://sistemaventas-daniel.runasp.net)
 
 A point-of-sale and inventory web app: sales with PDF receipts, products with photos, users and roles, reports to Excel and a sales dashboard, in a layered ASP.NET Core architecture.
 
-`ASP.NET Core MVC` `C#` `Entity Framework Core` `SQL Server` `Firebase Storage`
+`ASP.NET Core MVC` `.NET 10` `C#` `Entity Framework Core` `SQL Server` `QuestPDF`
 
 ---
 
