@@ -23,7 +23,7 @@ A free SaaS for wedding websites. Couples design their invitation step by step w
 - Builder that works offline in the browser (IndexedDB), photo framing editor, Excel export
 - Back office with conversion funnel, free-tier usage, error log, audit trail and a daily lifecycle job
 
-### ✈️ [SimFleet](https://github.com/Daniiel18/msfs-addons-browser) · [live demo](https://daniiel18.github.io/msfs-addons-browser/)
+### ✈️ [SimFleet](https://github.com/Daniiel18/msfs-addons-browser)
 
 An all-in-one Windows companion for Microsoft Flight Simulator 2020 & 2024: browse, download and install addons into the Community folder, then track your flying with a logbook, analytics, an airline economy and achievements.
 
